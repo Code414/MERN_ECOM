@@ -1,7 +1,5 @@
 # MERN eCommerce App
 
-Topics
-
 Heroku Demo Link: **mernshopecommerceapp.herokuapp.com/**
 ## Installation
 
