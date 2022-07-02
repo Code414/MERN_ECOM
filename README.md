@@ -1,7 +1,5 @@
 # MERN eCommerce App
 
-This project is developed with MERN (MongoDB - Express - React - Node) stack. It was developed with the guidance of the [Udemy](https://www.udemy.com/course/mern-ecommerce/) course. I changed the payment method from PayPal to Stripe.
-
 ## Installation
 
 For both backend and frontend side of the project:
@@ -40,9 +38,6 @@ You must be seeing the "API is running" message on the browser then you can also
 
 Then check http://localhost:3000/ address for the home page of the project.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
