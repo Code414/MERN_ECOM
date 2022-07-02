@@ -1,6 +1,6 @@
 # MERN eCommerce App
 
-Heroku App Demo Link: [mernshopecommerceapp.herokuapp.com/](mernshopecommerceapp.herokuapp.com/)
+Heroku App Demo Link: [mernshopecommerceapp.herokuapp.com/](https://mernshopecommerceapp.herokuapp.com/)
 ## Installation
 
 For both backend and frontend side of the project:
